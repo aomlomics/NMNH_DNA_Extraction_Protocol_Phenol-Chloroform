@@ -39,7 +39,7 @@ pool_dna_num: Not applicable
 nucl_acid_ext_method_additional: Not applicable
 ---
 
-# Protocol Template - DNA Extraction
+# NMNH DNA Extraction Protocol using Phenol-Chloroform and Isopropanol
 
 ## PROTOCOL INFORMATION
 

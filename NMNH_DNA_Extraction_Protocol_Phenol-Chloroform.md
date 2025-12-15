@@ -1,7 +1,7 @@
 ---
 # MIOP terms
 methodology_category: sample extraction and purification
-project: Characterization of eDNA sampled by the NOAA Ship Okeanos Explorer
+project: NOAA Ocean Exploration seawater eDNA metabarcoding
 purpose: biodiversity assessment objective [OBI:0001969]
 analyses: DNA extraction [OBI:0000257]
 geographic_location: Atlantic Ocean [GAZ:00000344], Gulf of Mexico [GAZ:00002853], Pacific Ocean

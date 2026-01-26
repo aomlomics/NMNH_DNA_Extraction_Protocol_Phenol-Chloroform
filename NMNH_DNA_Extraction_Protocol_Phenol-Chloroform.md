@@ -70,13 +70,13 @@ nucl_acid_ext_method_additional: Not applicable
 
 | PROTOCOL NAME | LINK | VERSION | RELEASE DATE |
 | ------------- | ------------ | ------------ | ---------- |
-| Content | Content | Content | Content |
+| AOML 'Omics Protocols | https://github.com/aomlomics/protocols | not applicable | ongoing |
 
 #### External Protocols
 
 | PROTOCOL NAME | LINK | ISSUER / AUTHOR | ACCESS DATE |
 | ------------ | ------------ | ------------ | ---------- |
-| Content | Content | Content | Content |
+| Qubit™ dsDNA HS Assay Kit | https://documents.thermofisher.com/TFS-Assets/LSG/manuals/Qubit_dsDNA_HS_Assay_UG.pdf | Thermo Fisher Scientific | 2026-01-26 |
 
 ### Protocol Revision Record
 

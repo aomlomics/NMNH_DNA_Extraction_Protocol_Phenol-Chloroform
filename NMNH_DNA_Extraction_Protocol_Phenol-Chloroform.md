@@ -18,7 +18,7 @@ language: en
 issued: 2024-11-26
 audience: scientists
 publisher: National Museum of Natural History, Smithsonian Institution
-hasVersion: 1
+hasVersion: 1.0.4
 license: CC0 1.0 Universal
 maturity level: mature
 
@@ -85,6 +85,7 @@ nucl_acid_ext_method_additional: DNA quantified with Qubit dsDNA High Sensitivit
 | 1.0.1 | 2025-12-15 | Updated YAML front matter |
 | 1.0.2 | 2025-12-15 | Enabled repository on Zenodo |
 | 1.0.3 | 2026-04-10 | Updated YAML front matter |
+| 1.0.4 | 2026-04-10 | Updated YAML front matter with version number |
 
 ### Acronyms and Abbreviations
 

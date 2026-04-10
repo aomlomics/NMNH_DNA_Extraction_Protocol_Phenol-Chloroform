@@ -23,8 +23,8 @@ license: CC0 1.0 Universal
 maturity level: mature
 
 # FAIRe terms
-samp_vol_we_dna_ext: 100
-samp_vol_we_dna_ext_unit: microliter
+samp_vol_we_dna_ext: # actual volume extracted depends on volume filtered and varies by sample
+samp_vol_we_dna_ext_unit: # actual volume extracted depends on volume filtered and varies by sample
 nucl_acid_ext_lysis: enzymatic
 nucl_acid_ext_sep: centrifugation
 nucl_acid_ext_kit: not applicable

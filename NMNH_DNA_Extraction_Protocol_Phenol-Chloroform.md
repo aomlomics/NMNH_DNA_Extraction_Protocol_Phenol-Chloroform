@@ -25,18 +25,17 @@ maturity level: mature
 # FAIRe terms
 samp_vol_we_dna_ext: 100
 samp_vol_we_dna_ext_unit: microliter
-nucl_acid_ext_lysis: Enzymatic
-nucl_acid_ext_sep: Centrifugation
-nucl_acid_ext: Phenol-Chloroform Manual Extraction
-nucl_acid_ext_kit: Not applicable
-nucl_acid_ext_modify: Not applicable
+nucl_acid_ext_lysis: enzymatic
+nucl_acid_ext_sep: centrifugation
+nucl_acid_ext_kit: not applicable
+nucl_acid_ext_modify: not applicable
 dna_cleanup_0_1: 0
-dna_cleanup_method: Not applicable
-concentration: Not applicable
-concentration_method: Qubit dsDNA High Sensitivity Assay Kit, Quant-iT dsDNA Assay Kit High Sensitivity
-ratioOfAbsorbance260_280: Not applicable
+dna_cleanup_method: not applicable
+concentration: not applicable
+concentration_method: not applicable
+ratioOfAbsorbance260_280: not applicable
 pool_dna_num: Not applicable
-nucl_acid_ext_method_additional: Not applicable
+nucl_acid_ext_method_additional: DNA quantified with Qubit dsDNA High Sensitivity Assay Kit or Quant-iT dsDNA Assay Kit High Sensitivity
 ---
 
 # NMNH DNA Extraction Protocol using Phenol-Chloroform and Isopropanol
